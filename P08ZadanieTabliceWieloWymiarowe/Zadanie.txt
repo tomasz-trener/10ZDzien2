@@ -1,0 +1,9 @@
+﻿
+
+ze strony:
+http://tomaszles.pl/wp-content/uploads/2019/06/zawodnicy.txt
+
+wczytaj dane do tablicy dwuwymiarowej i talbicy tablic
+i wyświetl te dane w konsoli;
+
+
