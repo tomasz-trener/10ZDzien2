@@ -33,6 +33,7 @@ namespace P10PetlaForeeach
             var typ = new List<string[]>();
             List<string[]> typ2 = new List<string[]>();
 
+          
 
         }
     }
