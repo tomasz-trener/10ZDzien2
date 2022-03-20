@@ -28,7 +28,12 @@ namespace P04ZadanieZawodnicy
                     imionaNazwiska.Add($"{komorki[2]} {komorki[3]}");
             }
 
-            File.WriteAllLines($@"c:\dane\{kraj}.txt", imionaNazwiska);
+            string sciezkaWynik = @"c:\dane\kraje";
+
+            if (!Directory.Exists(sciezkaWynik))
+                Directory.CreateDirectory(sciezkaWynik);
+            
+            File.WriteAllLines($@"{sciezkaWynik}\{kraj}.txt", imionaNazwiska);
 
         }
     }
