@@ -1,0 +1,14 @@
+﻿
+
+poproś o wczytanie równania matematycznego  (w jednej linii) np: 
+
+15+8
+lub
+20*12
+
+tym razem wykorzystaj tablice - w taki sposób aby przeknowerować wczytany ciąg na tablicę 
+dwu elementową bazując na znaku seperacji jako operator 
+
+Stwórz klasę Klakulator, która udostępnia metodę pozwalającą na zrealizowanie tego zadania 
+
+
