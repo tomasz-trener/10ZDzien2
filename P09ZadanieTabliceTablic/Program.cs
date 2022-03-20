@@ -24,8 +24,11 @@ namespace P09ZadanieTabliceTablic
                 tab[i-1] = wiersze[i].Split(';');
 
             Console.WriteLine("-- wyświetlenie danych --");
-            for (int i = 0; i < tab.Length; i++)
-                Console.WriteLine(string.Join(" ", tab[i]));
+            //for (int i = 0; i < tab.Length; i++)
+            //    Console.WriteLine(string.Join(" ", tab[i]));
+
+            foreach (var k in tab)
+                Console.WriteLine(string.Join(" ",k));
 
             Console.ReadKey();
         }
