@@ -42,7 +42,10 @@ namespace P07TabliceTablic
             // moja subiektywna opinia -> tablice tablic 
 
 
+            // w przypadku list nie ma list dwuwymiarowych!!
+            // są listylisty 
 
+            List<List<string>> listaList = new List<List<string>>();
 
         }
     }
