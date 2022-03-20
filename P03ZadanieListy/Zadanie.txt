@@ -1,0 +1,9 @@
+﻿
+Napisz program, który pozwala na wczytanie 
+dowolnego zdania
+
+przekonwertuj wszystkie wyrazy do tablicy 
+następnie z tej tablicy wybierz tylko te 
+wyrazy, które zawierają literę "a"
+i nowo znalezione wyrazy zapisz w liście
+wyświetl te wyrazy 

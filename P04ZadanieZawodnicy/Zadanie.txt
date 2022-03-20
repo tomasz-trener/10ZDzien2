@@ -1,0 +1,12 @@
+﻿
+
+http://tomaszles.pl/wp-content/uploads/2019/06/zawodnicy.txt
+
+Wczytaj wszstkie wiersze do tablicy stringów z podanego pliku
+(WebClient)
+
+wczytaj z konsoli nazwę kraju, np: pol
+
+wygeneruj nowy plik z imionami i nazwiskami zawodników z danego kraju
+
+nazwa pliku to w naszym przypadku pol.txt
